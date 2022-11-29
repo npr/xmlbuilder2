@@ -1,21 +1,21 @@
 {
-  "name": "xmlbuilder2",
+  "name": "@npr/xmlbuilder2",
   "version": "3.0.2",
   "keywords": [
     "xml",
     "xmlbuilder"
   ],
-  "homepage": "http://github.com/oozcitak/xmlbuilder2",
-  "description": "An XML builder for node.js",
-  "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
+  "homepage": "http://github.com/npr/xmlbuilder2",
+  "description": "A fork of xmlbuilder2, an XML builder for node.js",
+  "author": "National Public Radio (https://npr.codes/)",
   "contributors": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oozcitak/xmlbuilder2.git"
+    "url": "git://github.com/npr/xmlbuilder2.git"
   },
   "bugs": {
-    "url": "http://github.com/oozcitak/xmlbuilder2/issues"
+    "url": "http://github.com/npr/xmlbuilder2/issues"
   },
   "main": "./lib/index",
   "browser": "./lib/xmlbuilder2.min.js",

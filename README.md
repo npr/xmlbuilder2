@@ -1,6 +1,6 @@
 # xmlbuilder2
 
-An XML builder for [node.js](https://nodejs.org/).
+This is NPR's fork of [xmlbuilder2](https://github.com/oozcitak/xmlbuilder2), an XML builder for [node.js](https://nodejs.org/). The project appears to have been abandoned, or at least it enjoys minimal maintenance. The primary impetus for forking is to include [our fix for an issue encoding ampersands](https://github.com/oozcitak/xmlbuilder2/pull/154), though we hope our fix gets incorporated upstream eventually. This library is an important dependency of the [Feed Publish Service](https://github.com/npr/feed-publish-service).
 
 [![License](https://badgen.net/github/license/oozcitak/xmlbuilder2)](http://opensource.org/licenses/MIT)
 [![NPM Version](https://badgen.net/npm/v/xmlbuilder2)](https://www.npmjs.com/package/xmlbuilder2)
